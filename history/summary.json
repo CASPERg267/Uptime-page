@@ -4,36 +4,40 @@
     "url": "https://gfstatus.me",
     "icon": "https://favicons.githubusercontent.com/gfstatus.me",
     "slug": "gf-status-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 656,
-    "timeWeek": 696,
-    "timeMonth": 629,
-    "timeYear": 629,
-    "dailyMinutesDown": {}
+    "time": 1333,
+    "timeDay": 4867,
+    "timeWeek": 1744,
+    "timeMonth": 1333,
+    "timeYear": 1333,
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   },
   {
     "name": "GF Status Dashboard",
     "url": "https://gfstatus.me",
     "icon": "https://favicons.githubusercontent.com/gfstatus.me",
     "slug": "gf-status-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 325,
-    "timeWeek": 273,
-    "timeMonth": 251,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 173,
+    "timeWeek": 241,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2021-10-26": 0
+    }
   },
   {
     "name": "RadCord Bot",
