@@ -1,7 +1,7 @@
 url: https://gfstatus.me
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2021-11-02T18:52:10.613Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2021-11-02T19:39:34.478Z
 startTime: Sat Oct 16 2021 17:36:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
