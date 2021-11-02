@@ -4,19 +4,19 @@
     "url": "https://gfstatus.me",
     "icon": "https://favicons.githubusercontent.com/gfstatus.me",
     "slug": "gf-status-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 620,
-    "timeWeek": 1398,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 985,
+    "timeDay": 668,
+    "timeWeek": 1340,
+    "timeMonth": 985,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gfstatus.me",
     "icon": "https://favicons.githubusercontent.com/gfstatus.me",
     "slug": "gf-status-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 315,
-    "timeWeek": 249,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 254,
+    "timeDay": 319,
+    "timeWeek": 256,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 12
     }
   },
   {
