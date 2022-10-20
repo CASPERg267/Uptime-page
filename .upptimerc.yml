@@ -4,9 +4,9 @@ repo: Uptime-page # The name of this repository
 
 sites:
   - name: GF Status Bot
-    url: https://gfstatus.me
+    url: https://gfstatus.xyz
   - name: GF Status Dashboard
-    url: https://gfstatus.me
+    url: https://gfstatus.xyz
   - name: RadCord Bot
     url: https://news.ycombinator.com
   - name: Test Broken Site
