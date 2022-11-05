@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "73.98%",
+    "uptime": "74.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.99%",
-    "uptimeYear": "72.68%",
-    "time": 637,
-    "timeDay": 116,
+    "uptimeMonth": "47.26%",
+    "uptimeYear": "72.69%",
+    "time": 636,
+    "timeDay": 142,
     "timeWeek": 260,
-    "timeMonth": 1187,
-    "timeYear": 620,
+    "timeMonth": 1126,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2022-10-24": 201,
       "2022-10-20": 1435,
@@ -163,8 +163,7 @@
       "2021-11-16": 22,
       "2021-11-15": 8,
       "2021-11-10": 21,
-      "2021-11-06": 28,
-      "2021-11-05": 68
+      "2021-11-06": 28
     }
   },
   {
@@ -173,15 +172,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "74.01%",
+    "uptime": "74.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.00%",
-    "uptimeYear": "72.70%",
-    "time": 387,
-    "timeDay": 40,
-    "timeWeek": 148,
-    "timeMonth": 426,
+    "uptimeMonth": "47.26%",
+    "uptimeYear": "72.71%",
+    "time": 386,
+    "timeDay": 67,
+    "timeWeek": 151,
+    "timeMonth": 405,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2022-10-24": 199,
@@ -323,8 +322,7 @@
       "2021-12-04": 108,
       "2021-11-18": 1041,
       "2021-11-10": 21,
-      "2021-11-06": 28,
-      "2021-11-05": 68
+      "2021-11-06": 28
     }
   },
   {
@@ -339,10 +337,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 245,
-    "timeDay": 408,
-    "timeWeek": 280,
-    "timeMonth": 344,
-    "timeYear": 247,
+    "timeDay": 431,
+    "timeWeek": 272,
+    "timeMonth": 348,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2022-07-08": 552,
       "2022-04-27": 41,
