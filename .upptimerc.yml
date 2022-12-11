@@ -8,9 +8,9 @@ sites:
   - name: GF Status Dashboard
     url: https://gfstatus.xyz
   - name: RadCord Bot
-    url: https://news.ycombinator.com
+    url: https://radcord.xyz
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://radcord.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
