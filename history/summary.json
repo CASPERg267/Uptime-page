@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "76.35%",
+    "uptime": "76.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "73.00%",
-    "time": 663,
-    "timeDay": 136,
-    "timeWeek": 207,
-    "timeMonth": 1029,
-    "timeYear": 628,
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "73.27%",
+    "time": 664,
+    "timeDay": 166,
+    "timeWeek": 203,
+    "timeMonth": 1039,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2022-12-12": 380,
       "2022-12-11": 157,
@@ -159,8 +159,7 @@
       "2022-01-12": 344,
       "2022-01-11": 27,
       "2022-01-08": 38,
-      "2021-12-22": 232,
-      "2021-12-21": 1440
+      "2021-12-22": 232
     }
   },
   {
@@ -169,16 +168,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "76.38%",
+    "uptime": "76.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "73.03%",
-    "time": 518,
-    "timeDay": 40,
-    "timeWeek": 106,
-    "timeMonth": 1598,
-    "timeYear": 598,
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "73.30%",
+    "time": 517,
+    "timeDay": 37,
+    "timeWeek": 99,
+    "timeMonth": 1584,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2022-12-12": 371,
       "2022-12-11": 156,
@@ -316,8 +315,7 @@
       "2022-01-23": 79,
       "2022-01-12": 342,
       "2022-01-08": 37,
-      "2021-12-22": 232,
-      "2021-12-21": 1440
+      "2021-12-22": 232
     }
   },
   {
@@ -331,11 +329,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
-    "time": 261,
-    "timeDay": 706,
+    "time": 262,
+    "timeDay": 696,
     "timeWeek": 730,
-    "timeMonth": 439,
-    "timeYear": 274,
+    "timeMonth": 457,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2022-12-08": 16,
       "2022-07-08": 552,
@@ -353,11 +351,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 489,
-    "timeWeek": 519,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "time": 518,
+    "timeDay": 491,
+    "timeWeek": 516,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   }
 ]
