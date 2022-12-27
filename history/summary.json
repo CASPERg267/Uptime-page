@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "76.70%",
+    "uptime": "76.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.16%",
-    "uptimeMonth": "96.74%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "73.54%",
     "time": 605,
     "timeDay": 334,
     "timeWeek": 271,
-    "timeMonth": 880,
+    "timeMonth": 891,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2022-12-21": 186,
@@ -168,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "76.73%",
+    "uptime": "76.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.17%",
-    "uptimeMonth": "96.83%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "73.56%",
     "time": 517,
     "timeDay": 183,
     "timeWeek": 146,
-    "timeMonth": 1472,
+    "timeMonth": 1503,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2022-12-21": 184,
@@ -323,10 +323,10 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 268,
@@ -335,6 +335,7 @@
     "timeMonth": 519,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2022-12-27": 1,
       "2022-12-08": 16,
       "2022-07-08": 552,
       "2022-04-27": 41
@@ -345,9 +346,9 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -356,6 +357,8 @@
     "timeWeek": 500,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   }
 ]
