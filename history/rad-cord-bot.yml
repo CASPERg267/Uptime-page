@@ -1,7 +1,7 @@
 url: https://radcord.xyz
-status: up
-code: 200
-responseTime: 602
-lastUpdated: 2023-02-18T18:36:57.434Z
+status: down
+code: 502
+responseTime: 21200
+lastUpdated: 2023-02-18T19:53:09.174Z
 startTime: Sat Oct 16 2021 17:36:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
