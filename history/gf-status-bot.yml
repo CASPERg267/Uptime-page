@@ -1,7 +1,7 @@
 url: https://gfstatus.xyz
-status: down
-code: 502
-responseTime: 1111
-lastUpdated: 2023-04-10T23:10:07.258Z
+status: up
+code: 200
+responseTime: 45
+lastUpdated: 2023-04-11T13:26:10.085Z
 startTime: Sat Oct 16 2021 17:36:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
