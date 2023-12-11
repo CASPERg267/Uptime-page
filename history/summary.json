@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.44%",
+    "uptimeYear": "61.43%",
     "time": 761,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-12-11": 418,
+      "2023-12-11": 437,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-12-11": 418,
+      "2023-12-11": 437,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -350,12 +350,12 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
-    "uptime": "78.73%",
-    "uptimeDay": "62.40%",
+    "status": "down",
+    "uptime": "79.35%",
+    "uptimeDay": "62.38%",
     "uptimeWeek": "43.09%",
     "uptimeMonth": "86.90%",
-    "uptimeYear": "54.22%",
+    "uptimeYear": "55.56%",
     "time": 887,
     "timeDay": 195,
     "timeWeek": 182,
@@ -533,12 +533,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1151,
-      "2023-02-18": 76,
-      "2023-02-16": 1392,
-      "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1338
+      "2023-02-18": 76
     }
   },
   {
@@ -546,12 +541,12 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
-    "uptime": "82.53%",
-    "uptimeDay": "62.40%",
+    "status": "down",
+    "uptime": "82.68%",
+    "uptimeDay": "62.38%",
     "uptimeWeek": "43.09%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "53.81%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "54.23%",
     "time": 918,
     "timeDay": 91,
     "timeWeek": 85,
@@ -734,9 +729,7 @@
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
-      "2023-02-12": 1338,
-      "2023-02-10": 1068,
-      "2023-02-09": 1130
+      "2023-02-12": 1338
     }
   }
 ]
