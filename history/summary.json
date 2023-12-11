@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "down",
-    "uptime": "69.18%",
+    "uptime": "69.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-12-11": 875,
+      "2023-12-11": 894,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-12-11": 875,
+      "2023-12-11": 894,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -350,14 +350,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "84.99%",
-    "uptimeDay": "61.27%",
+    "uptimeDay": "61.26%",
     "uptimeWeek": "41.38%",
     "uptimeMonth": "86.51%",
     "uptimeYear": "67.68%",
-    "time": 893,
-    "timeDay": 195,
+    "time": 895,
+    "timeDay": 200,
     "timeWeek": 183,
     "timeMonth": 244,
     "timeYear": 1110,
@@ -486,8 +486,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
-      "2023-07-09": 218,
-      "2023-04-10": 15
+      "2023-07-09": 218
     }
   },
   {
@@ -495,14 +494,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "87.78%",
-    "uptimeDay": "61.27%",
-    "uptimeWeek": "41.39%",
+    "uptimeDay": "61.26%",
+    "uptimeWeek": "41.38%",
     "uptimeMonth": "86.51%",
     "uptimeYear": "67.68%",
     "time": 901,
-    "timeDay": 83,
+    "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 132,
     "timeYear": 901,
@@ -631,8 +630,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
-      "2023-07-09": 217,
-      "2023-04-10": 15
+      "2023-07-09": 217
     }
   }
 ]
