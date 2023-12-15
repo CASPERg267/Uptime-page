@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-15": 321,
+      "2023-12-15": 331,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-12-15": 321,
+      "2023-12-15": 331,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -356,17 +356,17 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "58.55%",
-    "uptimeWeek": "59.58%",
-    "uptimeMonth": "90.70%",
+    "uptimeWeek": "59.23%",
+    "uptimeMonth": "90.62%",
     "uptimeYear": "99.22%",
     "time": 778,
-    "timeDay": 249,
-    "timeWeek": 224,
-    "timeMonth": 242,
-    "timeYear": 970,
+    "timeDay": 241,
+    "timeWeek": 223,
+    "timeMonth": 241,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2023-12-15": 50,
       "2023-12-14": 733,
@@ -374,7 +374,7 @@
       "2023-12-12": 847,
       "2023-12-11": 655,
       "2023-12-10": 672,
-      "2023-12-09": 370
+      "2023-12-09": 405
     }
   },
   {
@@ -382,25 +382,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "59.15%",
-    "uptimeWeek": "59.68%",
-    "uptimeMonth": "90.72%",
-    "uptimeYear": "99.23%",
-    "time": 765,
-    "timeDay": 108,
-    "timeWeek": 96,
-    "timeMonth": 116,
-    "timeYear": 767,
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "59.32%",
+    "uptimeMonth": "90.64%",
+    "uptimeYear": "99.22%",
+    "time": 763,
+    "timeDay": 105,
+    "timeWeek": 95,
+    "timeMonth": 115,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2023-12-15": 48,
+      "2023-12-15": 49,
       "2023-12-14": 728,
       "2023-12-13": 753,
       "2023-12-12": 846,
       "2023-12-11": 655,
       "2023-12-10": 672,
-      "2023-12-09": 370
+      "2023-12-09": 405
     }
   }
 ]
