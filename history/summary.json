@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-12-15": 986,
+      "2023-12-15": 1000,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -181,7 +181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "down",
-    "uptime": "68.84%",
+    "uptime": "68.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-12-15": 986,
+      "2023-12-15": 1000,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -356,25 +356,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "65.91%",
-    "uptimeWeek": "58.86%",
-    "uptimeMonth": "90.53%",
-    "uptimeYear": "99.21%",
-    "time": 788,
+    "uptimeDay": "66.85%",
+    "uptimeWeek": "59.28%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "99.22%",
+    "time": 789,
     "timeDay": 252,
-    "timeWeek": 231,
+    "timeWeek": 232,
     "timeMonth": 242,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-12-15": 294,
+      "2023-12-15": 295,
       "2023-12-14": 733,
       "2023-12-13": 754,
       "2023-12-12": 847,
       "2023-12-11": 655,
       "2023-12-10": 672,
-      "2023-12-09": 197
+      "2023-12-09": 154
     }
   },
   {
@@ -382,12 +382,12 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "66.36%",
-    "uptimeWeek": "58.98%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "67.32%",
+    "uptimeWeek": "59.40%",
+    "uptimeMonth": "90.66%",
+    "uptimeYear": "99.22%",
     "time": 748,
     "timeDay": 123,
     "timeWeek": 99,
@@ -400,7 +400,7 @@
       "2023-12-12": 846,
       "2023-12-11": 655,
       "2023-12-10": 672,
-      "2023-12-09": 197
+      "2023-12-09": 154
     }
   }
 ]
