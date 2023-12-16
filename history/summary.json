@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "down",
-    "uptime": "68.76%",
+    "uptime": "68.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2023-12-16": 597,
+      "2023-12-16": 616,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-12-16": 597,
+      "2023-12-16": 616,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -358,25 +358,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "59.81%",
-    "uptimeWeek": "59.99%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "59.76%",
+    "uptimeWeek": "60.60%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "99.24%",
     "time": 795,
-    "timeDay": 242,
+    "timeDay": 236,
     "timeWeek": 233,
     "timeMonth": 240,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2023-12-16": 252,
+      "2023-12-16": 253,
       "2023-12-15": 439,
       "2023-12-14": 733,
       "2023-12-13": 754,
       "2023-12-12": 847,
       "2023-12-11": 655,
-      "2023-12-10": 357
+      "2023-12-10": 294
     }
   },
   {
@@ -384,14 +384,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "60.11%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "61.30%",
+    "uptimeWeek": "60.30%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "99.24%",
     "time": 730,
-    "timeDay": 106,
+    "timeDay": 100,
     "timeWeek": 101,
     "timeMonth": 114,
     "timeYear": 732,
@@ -402,7 +402,7 @@
       "2023-12-13": 753,
       "2023-12-12": 846,
       "2023-12-11": 655,
-      "2023-12-10": 377
+      "2023-12-10": 357
     }
   }
 ]
