@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-12-17": 412,
+      "2023-12-17": 427,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -187,14 +187,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.90%",
+    "uptimeYear": "59.89%",
     "time": 491,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-12-17": 412,
+      "2023-12-17": 427,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -360,25 +360,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "45.75%",
-    "uptimeWeek": "58.25%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "99.20%",
-    "time": 819,
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "46.70%",
+    "uptimeWeek": "58.75%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "99.21%",
+    "time": 820,
     "timeDay": 556,
     "timeWeek": 279,
     "timeMonth": 262,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-12-17": 255,
+      "2023-12-17": 256,
       "2023-12-16": 725,
       "2023-12-15": 439,
       "2023-12-14": 733,
       "2023-12-13": 754,
       "2023-12-12": 847,
-      "2023-12-11": 459
+      "2023-12-11": 408
     }
   },
   {
@@ -386,12 +386,12 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "46.36%",
-    "uptimeWeek": "58.36%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "47.35%",
+    "uptimeWeek": "58.65%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.21%",
     "time": 704,
     "timeDay": 86,
     "timeWeek": 96,
@@ -404,7 +404,7 @@
       "2023-12-14": 728,
       "2023-12-13": 753,
       "2023-12-12": 846,
-      "2023-12-11": 488
+      "2023-12-11": 459
     }
   }
 ]
