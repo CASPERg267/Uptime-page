@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-12-18": 258,
+      "2023-12-18": 273,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-12-18": 258,
+      "2023-12-18": 274,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -362,25 +362,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "55.47%",
-    "uptimeWeek": "58.51%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "56.31%",
+    "uptimeWeek": "58.70%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "99.21%",
     "time": 759,
-    "timeDay": 267,
+    "timeDay": 279,
     "timeWeek": 292,
     "timeMonth": 262,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-12-18": 121,
+      "2023-12-18": 122,
       "2023-12-17": 743,
       "2023-12-16": 725,
       "2023-12-15": 439,
       "2023-12-14": 733,
       "2023-12-13": 754,
-      "2023-12-12": 668
+      "2023-12-12": 648
     }
   },
   {
@@ -388,14 +388,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "58.46%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "56.81%",
+    "uptimeWeek": "58.97%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "99.21%",
     "time": 687,
-    "timeDay": 131,
+    "timeDay": 138,
     "timeWeek": 100,
     "timeMonth": 111,
     "timeYear": 689,
@@ -406,7 +406,7 @@
       "2023-12-15": 420,
       "2023-12-14": 728,
       "2023-12-13": 753,
-      "2023-12-12": 718
+      "2023-12-12": 667
     }
   }
 ]
