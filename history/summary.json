@@ -8,7 +8,7 @@
     "uptime": "69.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.12%",
+    "uptimeMonth": "49.26%",
     "uptimeYear": "59.61%",
     "time": 757,
     "timeDay": 859,
@@ -186,7 +186,7 @@
     "uptime": "69.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.12%",
+    "uptimeMonth": "49.26%",
     "uptimeYear": "59.61%",
     "time": 482,
     "timeDay": 379,
@@ -360,25 +360,26 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "47.28%",
-    "uptimeWeek": "60.69%",
-    "uptimeMonth": "90.95%",
+    "uptimeDay": "51.61%",
+    "uptimeWeek": "61.11%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
-    "time": 621,
+    "time": 622,
     "timeDay": 353,
     "timeWeek": 281,
     "timeMonth": 298,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2024-01-03": 1,
       "2024-01-02": 743,
       "2024-01-01": 587,
       "2023-12-31": 497,
       "2023-12-30": 718,
       "2023-12-29": 695,
       "2023-12-28": 603,
-      "2023-12-27": 117
+      "2023-12-27": 74
     }
   },
   {
@@ -386,11 +387,11 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "47.87%",
-    "uptimeWeek": "60.80%",
-    "uptimeMonth": "90.98%",
+    "uptimeDay": "52.22%",
+    "uptimeWeek": "60.98%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "99.25%",
     "time": 443,
     "timeDay": 80,
@@ -398,13 +399,14 @@
     "timeMonth": 93,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2024-01-03": 0,
       "2024-01-02": 733,
       "2024-01-01": 564,
       "2023-12-31": 479,
       "2023-12-30": 714,
       "2023-12-29": 688,
       "2023-12-28": 580,
-      "2023-12-27": 197
+      "2023-12-27": 178
     }
   }
 ]
