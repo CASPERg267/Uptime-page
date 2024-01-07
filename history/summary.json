@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "69.34%",
+    "uptime": "69.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.31%",
+    "uptimeMonth": "63.34%",
     "uptimeYear": "59.61%",
     "time": 767,
     "timeDay": 855,
@@ -186,7 +186,7 @@
     "uptime": "69.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.31%",
+    "uptimeMonth": "63.34%",
     "uptimeYear": "59.61%",
     "time": 471,
     "timeDay": 352,
@@ -360,11 +360,11 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "55.81%",
-    "uptimeWeek": "61.26%",
-    "uptimeMonth": "91.09%",
+    "uptimeDay": "55.76%",
+    "uptimeWeek": "61.45%",
+    "uptimeMonth": "91.13%",
     "uptimeYear": "99.26%",
     "time": 582,
     "timeDay": 205,
@@ -372,13 +372,13 @@
     "timeMonth": 285,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-01-07": 184,
+      "2024-01-07": 185,
       "2024-01-06": 617,
       "2024-01-05": 782,
       "2024-01-04": 500,
       "2024-01-03": 668,
       "2024-01-02": 743,
-      "2024-01-01": 411
+      "2024-01-01": 392
     }
   },
   {
@@ -386,12 +386,12 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "56.45%",
-    "uptimeWeek": "61.55%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "56.43%",
+    "uptimeWeek": "61.89%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "99.27%",
     "time": 406,
     "timeDay": 103,
     "timeWeek": 93,
@@ -404,7 +404,7 @@
       "2024-01-04": 494,
       "2024-01-03": 659,
       "2024-01-02": 733,
-      "2024-01-01": 425
+      "2024-01-01": 390
     }
   }
 ]
