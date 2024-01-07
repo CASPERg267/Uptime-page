@@ -8,7 +8,7 @@
     "uptime": "69.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.72%",
+    "uptimeMonth": "63.75%",
     "uptimeYear": "59.61%",
     "time": 767,
     "timeDay": 855,
@@ -186,7 +186,7 @@
     "uptime": "69.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.72%",
+    "uptimeMonth": "63.75%",
     "uptimeYear": "59.61%",
     "time": 471,
     "timeDay": 352,
@@ -360,25 +360,25 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "53.95%",
-    "uptimeWeek": "61.33%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "54.75%",
+    "uptimeWeek": "61.91%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "99.27%",
     "time": 583,
     "timeDay": 210,
     "timeWeek": 220,
     "timeMonth": 286,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2024-01-07": 261,
+      "2024-01-07": 262,
       "2024-01-06": 617,
       "2024-01-05": 782,
       "2024-01-04": 500,
       "2024-01-03": 668,
       "2024-01-02": 743,
-      "2024-01-01": 328
+      "2024-01-01": 269
     }
   },
   {
@@ -386,15 +386,15 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "54.64%",
-    "uptimeWeek": "61.52%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "55.46%",
+    "uptimeWeek": "61.96%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "99.27%",
     "time": 405,
     "timeDay": 104,
-    "timeWeek": 97,
+    "timeWeek": 96,
     "timeMonth": 93,
     "timeYear": 404,
     "dailyMinutesDown": {
@@ -404,7 +404,7 @@
       "2024-01-04": 494,
       "2024-01-03": 659,
       "2024-01-02": 733,
-      "2024-01-01": 352
+      "2024-01-01": 307
     }
   }
 ]
