@@ -8,7 +8,7 @@
     "uptime": "69.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.21%",
+    "uptimeMonth": "66.33%",
     "uptimeYear": "59.61%",
     "time": 766,
     "timeDay": 544,
@@ -183,10 +183,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "69.39%",
+    "uptime": "69.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.21%",
+    "uptimeMonth": "66.33%",
     "uptimeYear": "59.61%",
     "time": 470,
     "timeDay": 226,
@@ -360,15 +360,15 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "51.96%",
-    "uptimeWeek": "62.44%",
-    "uptimeMonth": "91.36%",
+    "uptimeDay": "51.94%",
+    "uptimeWeek": "62.71%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "99.28%",
-    "time": 587,
-    "timeDay": 250,
-    "timeWeek": 217,
+    "time": 588,
+    "timeDay": 252,
+    "timeWeek": 218,
     "timeMonth": 287,
     "timeYear": 608,
     "dailyMinutesDown": {
@@ -378,7 +378,7 @@
       "2024-01-05": 782,
       "2024-01-04": 500,
       "2024-01-03": 668,
-      "2024-01-02": 419
+      "2024-01-02": 392
     }
   },
   {
@@ -386,16 +386,16 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "52.53%",
-    "uptimeWeek": "62.92%",
-    "uptimeMonth": "91.47%",
+    "uptimeDay": "52.50%",
+    "uptimeWeek": "63.19%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "99.29%",
     "time": 400,
-    "timeDay": 131,
+    "timeDay": 133,
     "timeWeek": 96,
-    "timeMonth": 95,
+    "timeMonth": 94,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2024-01-08": 212,
@@ -404,7 +404,7 @@
       "2024-01-05": 773,
       "2024-01-04": 494,
       "2024-01-03": 659,
-      "2024-01-02": 412
+      "2024-01-02": 385
     }
   }
 ]
