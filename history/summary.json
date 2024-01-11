@@ -8,7 +8,7 @@
     "uptime": "69.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.95%",
+    "uptimeMonth": "75.99%",
     "uptimeYear": "59.61%",
     "time": 772,
     "timeDay": 576,
@@ -183,10 +183,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "69.50%",
+    "uptime": "69.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.95%",
+    "uptimeMonth": "75.99%",
     "uptimeYear": "59.61%",
     "time": 471,
     "timeDay": 249,
@@ -360,16 +360,16 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "44.00%",
-    "uptimeWeek": "59.70%",
-    "uptimeMonth": "90.73%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "44.03%",
+    "uptimeWeek": "59.89%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "99.23%",
     "time": 558,
     "timeDay": 506,
     "timeWeek": 240,
-    "timeMonth": 300,
+    "timeMonth": 299,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2024-01-11": 184,
@@ -378,7 +378,7 @@
       "2024-01-08": 753,
       "2024-01-07": 586,
       "2024-01-06": 617,
-      "2024-01-05": 574
+      "2024-01-05": 555
     }
   },
   {
@@ -386,11 +386,11 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "50.89%",
-    "uptimeWeek": "60.75%",
-    "uptimeMonth": "90.97%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "50.92%",
+    "uptimeWeek": "60.93%",
+    "uptimeMonth": "91.01%",
     "uptimeYear": "99.25%",
     "time": 381,
     "timeDay": 104,
@@ -404,7 +404,7 @@
       "2024-01-08": 753,
       "2024-01-07": 582,
       "2024-01-06": 607,
-      "2024-01-05": 584
+      "2024-01-05": 566
     }
   }
 ]
