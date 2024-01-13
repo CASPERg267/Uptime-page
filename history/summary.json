@@ -8,7 +8,7 @@
     "uptime": "69.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.36%",
+    "uptimeMonth": "83.50%",
     "uptimeYear": "59.61%",
     "time": 773,
     "timeDay": 862,
@@ -186,7 +186,7 @@
     "uptime": "69.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.36%",
+    "uptimeMonth": "83.50%",
     "uptimeYear": "59.61%",
     "time": 473,
     "timeDay": 352,
@@ -360,16 +360,16 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "59.95%",
-    "uptimeWeek": "60.02%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "61.82%",
+    "uptimeWeek": "60.56%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "99.24%",
     "time": 555,
-    "timeDay": 751,
-    "timeWeek": 328,
-    "timeMonth": 313,
+    "timeDay": 792,
+    "timeWeek": 327,
+    "timeMonth": 314,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2024-01-13": 275,
@@ -378,7 +378,7 @@
       "2024-01-10": 727,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 325
+      "2024-01-07": 271
     }
   },
   {
@@ -386,16 +386,16 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "59.96%",
-    "uptimeWeek": "60.86%",
-    "uptimeMonth": "90.99%",
+    "uptimeDay": "61.81%",
+    "uptimeWeek": "61.06%",
+    "uptimeMonth": "91.04%",
     "uptimeYear": "99.25%",
     "time": 367,
-    "timeDay": 100,
-    "timeWeek": 102,
-    "timeMonth": 95,
+    "timeDay": 98,
+    "timeWeek": 101,
+    "timeMonth": 96,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-01-13": 275,
@@ -404,7 +404,7 @@
       "2024-01-10": 628,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 344
+      "2024-01-07": 324
     }
   }
 ]
