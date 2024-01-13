@@ -8,7 +8,7 @@
     "uptime": "69.59%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "84.98%",
+    "uptimeMonth": "85.07%",
     "uptimeYear": "59.60%",
     "time": 775,
     "timeDay": 1256,
@@ -187,7 +187,7 @@
     "uptime": "69.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.02%",
+    "uptimeMonth": "85.11%",
     "uptimeYear": "59.61%",
     "time": 473,
     "timeDay": 352,
@@ -361,14 +361,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "51.88%",
-    "uptimeWeek": "58.80%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "53.14%",
+    "uptimeWeek": "59.45%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "99.22%",
     "time": 555,
-    "timeDay": 407,
+    "timeDay": 424,
     "timeWeek": 332,
     "timeMonth": 313,
     "timeYear": 578,
@@ -379,7 +379,7 @@
       "2024-01-10": 727,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 101
+      "2024-01-07": 36
     }
   },
   {
@@ -387,14 +387,14 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "51.88%",
-    "uptimeWeek": "59.62%",
-    "uptimeMonth": "90.71%",
+    "uptimeDay": "53.14%",
+    "uptimeWeek": "59.80%",
+    "uptimeMonth": "90.75%",
     "uptimeYear": "99.23%",
     "time": 365,
-    "timeDay": 83,
+    "timeDay": 85,
     "timeWeek": 102,
     "timeMonth": 95,
     "timeYear": 362,
@@ -405,7 +405,7 @@
       "2024-01-10": 628,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 120
+      "2024-01-07": 101
     }
   }
 ]
