@@ -8,7 +8,7 @@
     "uptime": "69.59%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "84.59%",
+    "uptimeMonth": "84.69%",
     "uptimeYear": "59.60%",
     "time": 775,
     "timeDay": 1256,
@@ -187,7 +187,7 @@
     "uptime": "69.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.63%",
+    "uptimeMonth": "84.73%",
     "uptimeYear": "59.61%",
     "time": 473,
     "timeDay": 352,
@@ -361,15 +361,15 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "57.87%",
-    "uptimeWeek": "59.24%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "57.85%",
+    "uptimeWeek": "59.66%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "99.23%",
     "time": 555,
-    "timeDay": 397,
-    "timeWeek": 328,
+    "timeDay": 413,
+    "timeWeek": 330,
     "timeMonth": 313,
     "timeYear": 578,
     "dailyMinutesDown": {
@@ -379,7 +379,7 @@
       "2024-01-10": 727,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 163
+      "2024-01-07": 120
     }
   },
   {
@@ -387,15 +387,15 @@
     "url": "https://radcord.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "57.87%",
-    "uptimeWeek": "59.95%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "57.84%",
+    "uptimeWeek": "60.24%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "99.24%",
     "time": 365,
-    "timeDay": 88,
-    "timeWeek": 100,
+    "timeDay": 84,
+    "timeWeek": 101,
     "timeMonth": 95,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -405,7 +405,7 @@
       "2024-01-10": 628,
       "2024-01-09": 620,
       "2024-01-08": 753,
-      "2024-01-07": 193
+      "2024-01-07": 163
     }
   }
 ]
