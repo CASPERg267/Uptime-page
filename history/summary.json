@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "down",
-    "uptime": "75.24%",
+    "uptime": "75.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.40%",
+    "uptimeYear": "84.12%",
     "time": 484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 420,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-02-06": 107,
+      "2025-02-07": 107,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -101,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "down",
-    "uptime": "74.79%",
+    "uptime": "74.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.47%",
+    "uptimeYear": "84.19%",
     "time": 136,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-02-06": 107,
+      "2025-02-07": 107,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -189,7 +191,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "67.70%",
+    "uptime": "67.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -200,7 +202,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 107,
+      "2025-02-07": 107,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -563,8 +566,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -573,7 +575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "71.88%",
+    "uptime": "71.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -584,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 107,
+      "2025-02-07": 108,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -947,8 +950,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   }
 ]
