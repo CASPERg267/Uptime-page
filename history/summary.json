@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "down",
-    "uptime": "73.07%",
+    "uptime": "73.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "74.59%",
-    "time": 425,
+    "uptimeYear": "74.32%",
+    "time": 422,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 221,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-03-14": 112,
+      "2025-03-15": 111,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -128,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "down",
-    "uptime": "72.63%",
+    "uptime": "72.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "74.61%",
+    "uptimeYear": "74.34%",
     "time": 136,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2025-03-14": 112,
+      "2025-03-15": 111,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -249,7 +251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "65.74%",
+    "uptime": "65.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -260,7 +262,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 112,
+      "2025-03-15": 111,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -623,8 +626,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -633,7 +635,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "70.06%",
+    "uptime": "70.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -644,7 +646,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 112,
+      "2025-03-15": 111,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -1007,8 +1010,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]
