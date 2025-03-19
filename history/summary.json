@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "72.91%",
+    "uptime": "72.92%",
     "uptimeDay": "98.79%",
-    "uptimeWeek": "19.36%",
-    "uptimeMonth": "12.41%",
+    "uptimeWeek": "25.76%",
+    "uptimeMonth": "13.88%",
     "uptimeYear": "73.72%",
     "time": 422,
-    "timeDay": 662,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 226,
+    "timeDay": 640,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2025-03-18": 17,
       "2025-03-17": 381,
@@ -132,16 +132,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "72.47%",
+    "uptime": "72.48%",
     "uptimeDay": "98.83%",
-    "uptimeWeek": "19.36%",
-    "uptimeMonth": "12.41%",
+    "uptimeWeek": "25.77%",
+    "uptimeMonth": "13.88%",
     "uptimeYear": "73.74%",
     "time": 137,
-    "timeDay": 313,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 35,
+    "timeDay": 286,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 36,
     "dailyMinutesDown": {
       "2025-03-18": 17,
       "2025-03-17": 381,
@@ -257,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "65.51%",
+    "uptime": "65.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -268,7 +268,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 909,
+      "2025-03-19": 115,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -631,8 +632,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -641,7 +641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "69.84%",
+    "uptime": "69.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -652,7 +652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 909,
+      "2025-03-19": 115,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1015,8 +1016,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   }
 ]
