@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "72.94%",
+    "uptime": "72.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.04%",
-    "uptimeMonth": "17.17%",
+    "uptimeWeek": "54.34%",
+    "uptimeMonth": "20.46%",
     "uptimeYear": "73.72%",
     "time": 422,
-    "timeDay": 615,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 229,
+    "timeDay": 541,
+    "timeWeek": 573,
+    "timeMonth": 573,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2025-03-18": 17,
       "2025-03-17": 381,
@@ -132,15 +132,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "72.51%",
+    "uptime": "72.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.04%",
-    "uptimeMonth": "17.17%",
+    "uptimeWeek": "54.35%",
+    "uptimeMonth": "20.46%",
     "uptimeYear": "73.74%",
     "time": 137,
-    "timeDay": 138,
-    "timeWeek": 216,
-    "timeMonth": 216,
+    "timeDay": 227,
+    "timeWeek": 218,
+    "timeMonth": 218,
     "timeYear": 37,
     "dailyMinutesDown": {
       "2025-03-18": 17,
@@ -257,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "65.43%",
+    "uptime": "65.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -268,7 +268,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 114,
+      "2025-03-21": 116,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -631,8 +632,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -641,7 +641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "69.77%",
+    "uptime": "69.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -652,7 +652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 114,
+      "2025-03-21": 116,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1015,8 +1016,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   }
 ]
