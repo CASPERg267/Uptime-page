@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "73.49%",
+    "uptime": "73.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.74%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "73.83%",
     "time": 477,
-    "timeDay": 482,
-    "timeWeek": 796,
-    "timeMonth": 1478,
-    "timeYear": 334,
+    "timeDay": 557,
+    "timeWeek": 616,
+    "timeMonth": 1451,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2025-03-21": 25,
       "2025-03-18": 17,
@@ -130,16 +130,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "73.07%",
+    "uptime": "73.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.72%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "73.83%",
     "time": 115,
-    "timeDay": 226,
-    "timeWeek": 338,
-    "timeMonth": 312,
-    "timeYear": 61,
+    "timeDay": 227,
+    "timeWeek": 222,
+    "timeMonth": 310,
+    "timeYear": 62,
     "dailyMinutesDown": {
       "2025-03-21": 33,
       "2025-03-18": 17,
@@ -254,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "64.10%",
+    "uptime": "64.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -265,7 +265,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 120,
+      "2025-04-16": 120,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -628,8 +629,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -638,7 +638,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "68.52%",
+    "uptime": "68.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -649,7 +649,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 121,
+      "2025-04-16": 120,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1012,8 +1013,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
