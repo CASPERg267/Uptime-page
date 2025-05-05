@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
     "status": "up",
-    "uptime": "73.99%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "99.30%",
+    "uptime": "74.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "73.77%",
     "time": 430,
     "timeDay": 379,
-    "timeWeek": 372,
+    "timeWeek": 365,
     "timeMonth": 593,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-05-04": 22,
+      "2025-05-04": 20,
       "2025-05-02": 84,
       "2025-05-01": 24,
       "2025-04-30": 33,
@@ -136,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "73.78%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "99.30%",
+    "uptime": "73.77%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "73.77%",
     "time": 124,
     "timeDay": 21,
-    "timeWeek": 29,
+    "timeWeek": 22,
     "timeMonth": 118,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2025-05-04": 22,
+      "2025-05-04": 20,
       "2025-05-02": 84,
       "2025-05-01": 24,
       "2025-04-30": 33,
@@ -277,7 +277,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 1393,
+      "2025-05-05": 126,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -640,8 +641,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -650,7 +650,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "67.60%",
+    "uptime": "67.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -661,7 +661,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 1394,
+      "2025-05-05": 126,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -1024,8 +1025,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   }
 ]
