@@ -10,11 +10,11 @@
     "uptimeWeek": "95.31%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "73.65%",
-    "time": 455,
-    "timeDay": 332,
-    "timeWeek": 657,
-    "timeMonth": 590,
-    "timeYear": 411,
+    "time": 456,
+    "timeDay": 496,
+    "timeWeek": 674,
+    "timeMonth": 596,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-05-15": 160,
       "2025-05-14": 39,
@@ -145,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
     "status": "up",
-    "uptime": "74.21%",
+    "uptime": "74.22%",
     "uptimeDay": "88.93%",
     "uptimeWeek": "95.31%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "73.66%",
     "time": 120,
-    "timeDay": 48,
-    "timeWeek": 61,
-    "timeMonth": 62,
+    "timeDay": 46,
+    "timeWeek": 62,
+    "timeMonth": 60,
     "timeYear": 64,
     "dailyMinutesDown": {
       "2025-05-15": 160,
@@ -284,7 +284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "62.59%",
+    "uptime": "62.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -295,7 +295,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 1222,
+      "2025-05-16": 125,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -658,8 +659,7 @@
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
-      "2024-05-17": 1440,
-      "2024-05-16": 1440
+      "2024-05-17": 1440
     }
   },
   {
@@ -668,7 +668,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "67.10%",
+    "uptime": "67.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -679,7 +679,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 1222,
+      "2025-05-16": 125,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1042,8 +1043,7 @@
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
-      "2024-05-17": 1440,
-      "2024-05-16": 1440
+      "2024-05-17": 1440
     }
   }
 ]
