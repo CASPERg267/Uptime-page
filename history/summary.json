@@ -4,17 +4,17 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "92.66%",
     "uptimeDay": "94.88%",
-    "uptimeWeek": "95.24%",
+    "uptimeWeek": "95.35%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "73.45%",
-    "time": 425,
-    "timeDay": 132,
-    "timeWeek": 147,
-    "timeMonth": 536,
-    "timeYear": 442,
+    "time": 424,
+    "timeDay": 154,
+    "timeWeek": 149,
+    "timeMonth": 537,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2025-06-03": 73,
       "2025-06-01": 117,
@@ -165,12 +165,12 @@
     "status": "up",
     "uptime": "82.09%",
     "uptimeDay": "94.87%",
-    "uptimeWeek": "95.24%",
+    "uptimeWeek": "95.35%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "73.46%",
     "time": 94,
-    "timeDay": 18,
-    "timeWeek": 21,
+    "timeDay": 24,
+    "timeWeek": 22,
     "timeMonth": 39,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -320,7 +320,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "61.69%",
+    "uptime": "61.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -331,7 +331,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-03": 1148,
+      "2025-06-04": 128,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -694,8 +695,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   },
   {
@@ -704,7 +704,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "66.26%",
+    "uptime": "66.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -715,7 +715,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-03": 1148,
+      "2025-06-04": 128,
+      "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -1078,8 +1079,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   }
 ]
