@@ -6,15 +6,15 @@
     "slug": "gf-status-bot",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.50%",
+    "uptimeDay": "91.49%",
     "uptimeWeek": "94.21%",
-    "uptimeMonth": "95.28%",
+    "uptimeMonth": "95.34%",
     "uptimeYear": "99.44%",
     "time": 402,
-    "timeDay": 111,
-    "timeWeek": 226,
-    "timeMonth": 376,
-    "timeYear": 420,
+    "timeDay": 127,
+    "timeWeek": 195,
+    "timeMonth": 371,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-06-15": 152,
       "2025-06-13": 17,
@@ -70,13 +70,13 @@
     "slug": "gf-status-dashboard",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.50%",
+    "uptimeDay": "91.49%",
     "uptimeWeek": "94.21%",
-    "uptimeMonth": "95.40%",
+    "uptimeMonth": "95.46%",
     "uptimeYear": "99.44%",
     "time": 87,
-    "timeDay": 19,
-    "timeWeek": 24,
+    "timeDay": 21,
+    "timeWeek": 25,
     "timeMonth": 30,
     "timeYear": 57,
     "dailyMinutesDown": {
@@ -134,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "61.14%",
+    "uptime": "61.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -145,7 +145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 1050,
+      "2025-06-16": 138,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -508,8 +509,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -518,7 +518,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "65.74%",
+    "uptime": "65.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -529,7 +529,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 1050,
+      "2025-06-16": 138,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -892,8 +893,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   }
 ]
