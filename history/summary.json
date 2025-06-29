@@ -4,18 +4,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "99.45%",
     "time": 401,
     "timeDay": 161,
     "timeWeek": 233,
-    "timeMonth": 185,
+    "timeMonth": 183,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-28": 21,
       "2025-06-27": 76,
       "2025-06-25": 25,
@@ -59,8 +60,7 @@
       "2025-05-15": 160,
       "2025-05-14": 39,
       "2025-05-13": 58,
-      "2025-05-12": 51,
-      "2025-05-11": 25
+      "2025-05-12": 51
     }
   },
   {
@@ -68,18 +68,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "99.45%",
     "time": 50,
     "timeDay": 29,
     "timeWeek": 32,
     "timeMonth": 24,
     "timeYear": 55,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-28": 21,
       "2025-06-27": 76,
       "2025-06-25": 25,
@@ -124,7 +125,7 @@
       "2025-05-14": 39,
       "2025-05-13": 58,
       "2025-05-12": 51,
-      "2025-05-11": 133
+      "2025-05-11": 25
     }
   },
   {
@@ -133,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "60.54%",
+    "uptime": "60.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -144,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 146,
+      "2025-06-29": 338,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -528,7 +529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 146,
+      "2025-06-29": 338,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
