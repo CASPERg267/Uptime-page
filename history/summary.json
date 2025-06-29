@@ -8,11 +8,11 @@
     "uptime": "99.85%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "95.53%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.44%",
-    "time": 408,
-    "timeDay": 263,
-    "timeWeek": 228,
+    "time": 401,
+    "timeDay": 161,
+    "timeWeek": 233,
     "timeMonth": 185,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -72,11 +72,11 @@
     "uptime": "99.85%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "95.52%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.43%",
     "time": 50,
-    "timeDay": 28,
-    "timeWeek": 31,
+    "timeDay": 29,
+    "timeWeek": 32,
     "timeMonth": 24,
     "timeYear": 55,
     "dailyMinutesDown": {
@@ -133,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "60.55%",
+    "uptime": "60.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -144,7 +144,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1159,
+      "2025-06-29": 146,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -507,8 +508,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -517,7 +517,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "65.18%",
+    "uptime": "65.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -528,7 +528,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1159,
+      "2025-06-29": 146,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -891,8 +892,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   }
 ]
