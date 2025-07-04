@@ -4,19 +4,18 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "99.44%",
     "time": 394,
-    "timeDay": 641,
-    "timeWeek": 206,
-    "timeMonth": 198,
-    "timeYear": 407,
+    "timeDay": 118,
+    "timeWeek": 203,
+    "timeMonth": 197,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-07-03": 12,
       "2025-07-02": 46,
       "2025-07-01": 20,
       "2025-06-30": 28,
@@ -62,7 +61,7 @@
       "2025-05-16": 142,
       "2025-05-15": 160,
       "2025-05-14": 39,
-      "2025-05-13": 15
+      "2025-05-13": 36
     }
   },
   {
@@ -72,17 +71,16 @@
     "slug": "gf-status-dashboard",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "99.45%",
-    "time": 84,
-    "timeDay": 7,
-    "timeWeek": 24,
+    "time": 83,
+    "timeDay": 19,
+    "timeWeek": 25,
     "timeMonth": 25,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-07-03": 12,
       "2025-07-02": 46,
       "2025-07-01": 20,
       "2025-06-30": 28,
@@ -128,7 +126,7 @@
       "2025-05-16": 90,
       "2025-05-15": 160,
       "2025-05-14": 39,
-      "2025-05-13": 36
+      "2025-05-13": 58
     }
   },
   {
@@ -148,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 1371,
+      "2025-07-04": 129,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -511,8 +510,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -521,7 +519,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "64.96%",
+    "uptime": "64.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -532,7 +530,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 1371,
+      "2025-07-04": 129,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -895,8 +894,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   }
 ]
