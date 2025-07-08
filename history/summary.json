@@ -6,14 +6,14 @@
     "slug": "gf-status-bot",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "96.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.44%",
-    "time": 382,
-    "timeDay": 113,
-    "timeWeek": 270,
-    "timeMonth": 208,
+    "time": 381,
+    "timeDay": 173,
+    "timeWeek": 267,
+    "timeMonth": 214,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-07-06": 18,
@@ -72,14 +72,14 @@
     "slug": "gf-status-dashboard",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "96.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.45%",
     "time": 80,
-    "timeDay": 18,
-    "timeWeek": 26,
-    "timeMonth": 26,
+    "timeDay": 28,
+    "timeWeek": 24,
+    "timeMonth": 27,
     "timeYear": 55,
     "dailyMinutesDown": {
       "2025-07-06": 18,
@@ -138,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "60.18%",
+    "uptime": "60.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 141,
+      "2025-07-08": 130,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -512,8 +513,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   },
   {
@@ -522,7 +522,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "64.83%",
+    "uptime": "64.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -533,7 +533,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-07": 141,
+      "2025-07-08": 130,
+      "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -896,8 +897,7 @@
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 1440,
-      "2024-07-08": 1440
+      "2024-07-09": 1440
     }
   }
 ]
