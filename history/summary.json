@@ -4,18 +4,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "98.34%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 352,
     "timeDay": 146,
     "timeWeek": 152,
     "timeMonth": 159,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-20": 24,
       "2025-08-04": 18,
       "2025-07-27": 23,
@@ -67,8 +68,7 @@
       "2025-05-20": 17,
       "2025-05-19": 53,
       "2025-05-18": 16,
-      "2025-05-17": 63,
-      "2025-05-16": 27
+      "2025-05-17": 63
     }
   },
   {
@@ -76,18 +76,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "98.33%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 47,
     "timeDay": 24,
     "timeWeek": 21,
     "timeMonth": 22,
     "timeYear": 54,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-20": 24,
       "2025-08-04": 18,
       "2025-07-27": 23,
@@ -139,8 +140,7 @@
       "2025-05-20": 17,
       "2025-05-19": 53,
       "2025-05-18": 16,
-      "2025-05-17": 63,
-      "2025-05-16": 27
+      "2025-05-17": 63
     }
   },
   {
@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 121,
+      "2025-08-21": 421,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 121,
+      "2025-08-21": 421,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
