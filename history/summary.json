@@ -6,15 +6,15 @@
     "slug": "gf-status-bot",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "95.49%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.46%",
     "time": 350,
-    "timeDay": 91,
-    "timeWeek": 127,
-    "timeMonth": 134,
-    "timeYear": 401,
+    "timeDay": 155,
+    "timeWeek": 139,
+    "timeMonth": 131,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2025-09-05": 65,
       "2025-08-30": 21,
@@ -79,13 +79,13 @@
     "slug": "gf-status-dashboard",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.46%",
     "time": 47,
-    "timeDay": 26,
-    "timeWeek": 18,
+    "timeDay": 33,
+    "timeWeek": 21,
     "timeMonth": 21,
     "timeYear": 53,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "57.60%",
+    "uptime": "57.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -162,7 +162,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 112,
+      "2025-09-07": 121,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -525,8 +526,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -535,7 +535,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "62.35%",
+    "uptime": "62.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -546,7 +546,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 112,
+      "2025-09-07": 121,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -909,8 +910,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   }
 ]
