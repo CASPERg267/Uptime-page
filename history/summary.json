@@ -4,18 +4,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 359,
     "timeDay": 136,
     "timeWeek": 106,
     "timeMonth": 152,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-11-13": 25,
       "2025-11-08": 23,
       "2025-10-21": 104,
@@ -72,8 +73,7 @@
       "2025-05-26": 16,
       "2025-05-25": 54,
       "2025-05-24": 15,
-      "2025-05-23": 70,
-      "2025-05-22": 20
+      "2025-05-23": 70
     }
   },
   {
@@ -81,18 +81,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 47,
     "timeDay": 4,
     "timeWeek": 13,
     "timeMonth": 23,
     "timeYear": 53,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-11-13": 25,
       "2025-11-08": 23,
       "2025-10-21": 104,
@@ -149,8 +150,7 @@
       "2025-05-26": 16,
       "2025-05-25": 54,
       "2025-05-24": 15,
-      "2025-05-23": 70,
-      "2025-05-22": 20
+      "2025-05-23": 70
     }
   },
   {
@@ -159,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "54.82%",
+    "uptime": "54.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-17": 284,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -543,7 +543,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "59.67%",
+    "uptime": "59.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-17": 284,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
