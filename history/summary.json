@@ -6,16 +6,17 @@
     "slug": "gf-status-bot",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.45%",
-    "time": 359,
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.46%",
+    "time": 360,
     "timeDay": 72,
     "timeWeek": 128,
     "timeMonth": 148,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2025-11-23": 10,
       "2025-11-13": 25,
       "2025-11-08": 23,
       "2025-10-21": 104,
@@ -72,8 +73,7 @@
       "2025-05-26": 16,
       "2025-05-25": 54,
       "2025-05-24": 15,
-      "2025-05-23": 70,
-      "2025-05-22": 20
+      "2025-05-23": 70
     }
   },
   {
@@ -81,18 +81,19 @@
     "url": "https://gfstatus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/gfstatus.xyz.ico",
     "slug": "gf-status-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.45%",
     "time": 47,
-    "timeDay": 8,
+    "timeDay": 16,
     "timeWeek": 21,
-    "timeMonth": 22,
+    "timeMonth": 23,
     "timeYear": 52,
     "dailyMinutesDown": {
+      "2025-11-23": 10,
       "2025-11-13": 25,
       "2025-11-08": 23,
       "2025-10-21": 104,
@@ -149,8 +150,7 @@
       "2025-05-26": 16,
       "2025-05-25": 54,
       "2025-05-24": 15,
-      "2025-05-23": 70,
-      "2025-05-22": 20
+      "2025-05-23": 70
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 342,
+      "2025-11-23": 351,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 342,
+      "2025-11-23": 351,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
