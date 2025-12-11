@@ -11,10 +11,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.45%",
     "time": 359,
-    "timeDay": 239,
-    "timeWeek": 121,
-    "timeMonth": 125,
-    "timeYear": 388,
+    "timeDay": 200,
+    "timeWeek": 136,
+    "timeMonth": 128,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2025-12-01": 20,
       "2025-11-28": 24,
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.45%",
     "time": 47,
-    "timeDay": 33,
-    "timeWeek": 16,
-    "timeMonth": 17,
+    "timeDay": 36,
+    "timeWeek": 19,
+    "timeMonth": 18,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2025-12-01": 20,
@@ -161,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "53.99%",
+    "uptime": "53.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -172,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 130,
+      "2025-12-11": 132,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -535,8 +536,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -545,7 +545,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "58.86%",
+    "uptime": "58.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -556,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 130,
+      "2025-12-11": 132,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -919,8 +920,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   }
 ]
