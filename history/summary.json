@@ -10,10 +10,10 @@
     "uptimeWeek": "98.36%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.44%",
-    "time": 359,
-    "timeDay": 119,
-    "timeWeek": 129,
-    "timeMonth": 128,
+    "time": 360,
+    "timeDay": 167,
+    "timeWeek": 123,
+    "timeMonth": 129,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-12-13": 45,
@@ -90,9 +90,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.44%",
     "time": 47,
-    "timeDay": 50,
-    "timeWeek": 27,
-    "timeMonth": 20,
+    "timeDay": 31,
+    "timeWeek": 26,
+    "timeMonth": 21,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2025-12-13": 45,
@@ -163,7 +163,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "rad-cord-bot",
     "status": "down",
-    "uptime": "53.85%",
+    "uptime": "53.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -174,7 +174,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 1187,
+      "2025-12-14": 144,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -537,8 +538,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
@@ -547,7 +547,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radcord.xyz.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "58.73%",
+    "uptime": "58.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -558,7 +558,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 1187,
+      "2025-12-14": 144,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -921,8 +922,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   }
 ]
